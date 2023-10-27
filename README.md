@@ -1,0 +1,2 @@
+# smart-way
+educational website
